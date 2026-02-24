@@ -13,9 +13,7 @@
 
 * [版权与免责声明](#版权与免责声明)
 * [课程结构](#课程结构)
-* [大文件与网盘下载](#大文件与网盘下载)
 * [课程目录](#课程目录)
-* [贡献投稿](#贡献投稿)
 * [反馈方式](#反馈方式)
 
 ---
@@ -38,32 +36,21 @@ course_name/
 
 ------
 
-## ☁️ 大文件与网盘下载
-
-由于 GitHub 存在单文件 100MB 的限制，部分超大文件（如教材 PDF、教学录播、虚拟机镜像）已存放在网盘，请按需下载：
-
-| **课程名称**     | **资料内容**     | **存放平台** | **下载链接**                                                 | **提取码** | **备注**           |
-| ---------------- | ---------------- | ------------ | ------------------------------------------------------------ | ---------- | ------------------ |
-| [例如：高等数学] | 历年讲解录播视频 | 阿里云盘     | [点击下载](https://www.google.com/search?q=https://www.aliyundrive.com/) | `abcd`     | 共约 5GB           |
-| [例如：操作系统] | Ubuntu 实验镜像  | 百度网盘     | [点击下载](https://www.google.com/search?q=https://pan.baidu.com/) | `1234`     | 预装了所有实验环境 |
-
-------
-
 ## 📚 课程目录
 
 **按照年级与学期分类**，点击链接即可进入对应文件夹：
 
 ### 大一上学期 (2023- Fall)
 
-- [微积分](链接：https://pan.ustc.edu.cn/share/index/5cfd102086914e5baac7)
+- [微积分](https://pan.ustc.edu.cn/share/index/14b36a40205342acadc5)
 
 ### 大一下学期 (2024- Spring)
 
-- [力学A](链接：https://pan.ustc.edu.cn/share/index/29808fd95055482d9fce)
-- [分析化学](链接：https://pan.ustc.edu.cn/share/index/8eab1c28c6124801b3c5)
-- [线性代数B](链接：https://pan.ustc.edu.cn/share/index/7823be7cec60475db3e2)
-- [大学生物理实验B](链接：https://pan.ustc.edu.cn/share/index/18fed26a61b54d919f18)
-- [大学生英语](链接：https://pan.ustc.edu.cn/share/index/89db01001c464359a5b5)
+- [力学A](https://pan.ustc.edu.cn/share/index/9c9616f7290c473782b0)
+- [分析化学](https://pan.ustc.edu.cn/share/index/f614d1a4326f4efc9419)
+- [线性代数B](https://pan.ustc.edu.cn/share/index/8f9b054021d0407284bb)
+- [大学生物理实验B](https://pan.ustc.edu.cn/share/index/32b960f1305b42edb64c)
+- [大学生英语](https://pan.ustc.edu.cn/share/index/3586b1c66d6d4f189d23)
 
 *(持续更新中...)*
 
