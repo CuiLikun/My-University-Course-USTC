@@ -36,6 +36,7 @@
 | **大二上**<br>2024 · 秋 | 复变函数<br>数据结构及其算法<br>概统<br>电子技术基础<br>电子技术基础实验<br>电磁学 B<br>计算系统概论 A | [打开文件夹 ↗](https://drive.google.com/drive/folders/1rKC24_2Wc0ouASy4hxDUV1DKTW6Pxvfz?usp=drive_link) |
 | **大二下**<br>2025 · 春 | 信号与系统<br>当我们讨论科学时<br>数理方程<br>机器人djy<br>热学<br>离散数学<br>计算机原理与嵌入式系统<br>量子物理<br>随机过程 | [打开文件夹 ↗](https://drive.google.com/drive/folders/1Qcu0L47VQelfRIyJ3qKE1QP-7RJ-G_3x?usp=drive_link) |
 | **大三上**<br>2025 · 秋 | 人工智能导论<br>形势与政策<br>数据库<br>机器学习<br>脑机接口<br>脑认知科学导论<br>计算机控制基础<br>计算机网络<br>语音 | [打开文件夹 ↗](https://drive.google.com/drive/folders/1F0kJ3VBsrZfXz_ADZsk2NakCHg6VGHqX?usp=drive_link) |
+| **大三下**<br>2026 · 春 | 人工智能导论<br>数字图像处理 A<br>数学建模<br>模式识别<br>算法分析与设计<br>计算机网络 B<br>运筹学 B | [打开文件夹 ↗](https://drive.google.com/drive/folders/1eK10rpiUIylPJQxMJmGqM6ERO-kCQQIp?usp=drive_link) |
 
 > [!TIP]
 > 新课程与资料将持续补充，欢迎收藏本仓库以便后续查阅。
