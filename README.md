@@ -1,62 +1,82 @@
-# USTC_CLK课程资源 (e.g., CLK-Course)
+<div align="center">
 
-[![Stars](https://img.shields.io/github/stars/[你的用户名]/[你的仓库名].svg?label=Stars&style=social)](https://github.com/[你的用户名]/[你的仓库名]/stargazers)
-[![Forks](https://img.shields.io/github/forks/[你的用户名]/[你的仓库名].svg?label=Forks&style=social)](https://github.com/[你的用户名]/[你的仓库名]/network/members)
-[![License](https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<h1>📚 USTC CLK 课程资源</h1>
 
-> 本仓库收录 我的大学众多课程的历年卷、笔记、实验代码与总结等**原创内容**。
-> 前人栽树，后人乘凉。欢迎各位学弟学妹使用！
+<h3>按学期整理的课程资料索引</h3>
+
+[![License: CC0 1.0](https://img.shields.io/badge/License-CC0%201.0-6f42c1.svg)](LICENSE)
+
+[课程目录](#course-catalog) · [使用说明](#usage) · [版权说明](#copyright) · [反馈](#contact)
+
+</div>
+
+> [!NOTE]
+> 本仓库整理大学期间的课程资料，包括笔记、历年卷、实验代码与学习总结等内容，供学习交流与参考。
+
+## ✨ 内容概览
+
+| 分类 | 说明 |
+| :-- | :-- |
+| 📖 课程笔记 | 课堂重点、知识梳理与复习总结 |
+| 📝 历年资料 | 历年试卷及相关复习材料 |
+| 💻 实验代码 | 课程实验与作业中的代码示例 |
 
 ---
 
-## 📑 目录索引
+<a id="course-catalog"></a>
 
-* [版权与免责声明](#版权与免责声明)
-* [课程结构](#课程结构)
-* [课程目录](#课程目录)
-* [反馈方式](#反馈方式)
+## 🗂️ 课程目录
+
+课程资料按「**学期文件夹 → 课程**」整理，并通过 Google Drive 共享。点击右侧的学期文件夹即可查看该学期全部资料。
+
+| 学期 | 课程 | 资料文件夹 |
+| :-- | :-- | :-- |
+| **大一上**<br>2023 · 秋 | 微积分 | [打开文件夹 ↗](https://drive.google.com/drive/folders/1QNdlliRIyVrIPTm4-vUbzF02G1hdH2Hd?usp=drive_link) |
+| **大一下**<br>2024 · 春 | 力学 A<br>分析化学<br>线性代数 B<br>大学生物理实验 B<br>大学生英语 | [打开文件夹 ↗](https://drive.google.com/drive/folders/1QNdlliRIyVrIPTm4-vUbzF02G1hdH2Hd?usp=drive_link) |
+| **大二上**<br>2024 · 秋 | 复变函数<br>数据结构及其算法<br>概统<br>电子技术基础<br>电子技术基础实验<br>电磁学 B<br>计算系统概论 A | [打开文件夹 ↗](https://drive.google.com/drive/folders/1rKC24_2Wc0ouASy4hxDUV1DKTW6Pxvfz?usp=drive_link) |
+| **大二下**<br>2025 · 春 | 信号与系统<br>当我们讨论科学时<br>数理方程<br>机器人djy<br>热学<br>离散数学<br>计算机原理与嵌入式系统<br>量子物理<br>随机过程 | [打开文件夹 ↗](https://drive.google.com/drive/folders/1Qcu0L47VQelfRIyJ3qKE1QP-7RJ-G_3x?usp=drive_link) |
+| **大三上**<br>2025 · 秋 | 人工智能导论<br>形势与政策<br>数据库<br>机器学习<br>脑机接口<br>脑认知科学导论<br>计算机控制基础<br>计算机网络<br>语音 | [打开文件夹 ↗](https://drive.google.com/drive/folders/1F0kJ3VBsrZfXz_ADZsk2NakCHg6VGHqX?usp=drive_link) |
+
+> [!TIP]
+> 新课程与资料将持续补充，欢迎收藏本仓库以便后续查阅。
 
 ---
+
+## 📁 文件组织
+
+每个学期对应一个 Google Drive 共享文件夹，课程资料在其下按课程名称分类。若链接要求登录或访问权限，请使用获授权的 Google 账号打开：
+
+```text
+学期文件夹/
+├── 课程 A/
+│   ├── 笔记
+│   ├── 历年资料
+│   └── 实验代码
+└── 课程 B/
+```
+
+<a id="usage"></a>
+
+## 📌 使用说明
+
+1. 在课程目录中打开相应的学期文件夹。
+2. 进入所需课程，按资料类型查找内容。
+3. 请将资料用于学习与参考，并遵守课程的学术诚信要求。
+
+<a id="copyright"></a>
 
 ## ⚖️ 版权与免责声明
 
-1. **学术诚信**：本仓库仅供学习交流与参考。请各位同学遵守学术诚信，**切勿直接抄袭**作业或实验代码。因抄袭导致的学术不端后果由使用者自行承担。
-2. **知识共享**：本仓库分享资料遵守其创作者之规定。对无特别声明的资料，谨以 [知识共享署名 - 非商业性使用 - 相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 授权。
-3. **侵权处理**：部分资料来源于网络，请创作者及公众监督，如有资料违反许可协议或侵犯个人隐私，请提 Issue 或邮件告知我们删除。
+- 本仓库仅供学习交流与参考，**请勿直接抄袭**作业、实验代码或课程报告。
+- 仓库原创内容依照 [CC0 1.0](LICENSE) 发布；第三方资料的版权及使用条件仍归其原作者所有。
+- 若发现链接失效、资料有误，或有内容涉及版权与隐私问题，请通过 Issue 或邮件联系，我会及时处理。
 
----
+<a id="contact"></a>
 
-## 📂 课程结构
+## 📮 反馈方式
 
-每门课程大致结构如下（可根据实际情况增减）：
+欢迎反馈课程资料、失效链接或改进建议：ustcclk@mail.ustc.edu.cn
 
-```text
-course_name/
-```
-
-------
-
-## 📚 课程目录
-
-**按照年级与学期分类**，点击链接即可进入对应文件夹：
-
-### 大一上学期 (2023- Fall)
-
-- [微积分](https://pan.ustc.edu.cn/share/index/14b36a40205342acadc5)
-
-### 大一下学期 (2024- Spring)
-
-- [力学A](https://pan.ustc.edu.cn/share/index/9c9616f7290c473782b0)
-- [分析化学](https://pan.ustc.edu.cn/share/index/f614d1a4326f4efc9419)
-- [线性代数B](https://pan.ustc.edu.cn/share/index/8f9b054021d0407284bb)
-- [大学生物理实验B](https://pan.ustc.edu.cn/share/index/32b960f1305b42edb64c)
-- [大学生英语](https://pan.ustc.edu.cn/share/index/3586b1c66d6d4f189d23)
-
-*(持续更新中...)*
-
-## 📬 反馈方式
-
-如果发现资料错误、链接失效或有其他建议，欢迎随时联系：
-
-- 发送邮件至：ustcclk@mail.ustc.edu.cn
-
+<div align="center">
+<sub>愿这些整理过的资料，能让后来的学习少一点绕路。</sub>
+</div>
