@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">USTC CLK · 把知识连成线</title>
+  <desc id="desc">大学课程资源索引封面。深蓝底色搭配蓝金色轨道、知识节点与书页线条，象征不同学科之间的连接。</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#667e9b" stroke-opacity=".09"/>
+    </pattern>
+    <radialGradient id="glow">
+      <stop stop-color="#203f57" stop-opacity=".85"/>
+      <stop offset="1" stop-color="#0d1729" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="orbit" x1="793" y1="69" x2="1188" y2="308" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#82b9da"/>
+      <stop offset="1" stop-color="#e0b77e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="420" rx="20" fill="#0d1729"/>
+  <path d="M64 0H210" stroke="#e0b77e" stroke-width="4"/>
+  <path d="M210 0H1216" stroke="#24344c" stroke-width="2"/>
+  <rect x="720" y="24" width="528" height="294" fill="url(#grid)"/>
+  <ellipse cx="989" cy="188" rx="268" ry="192" fill="url(#glow)"/>
+
+  <g font-family="'Segoe UI', Inter, Arial, sans-serif">
+    <rect x="64" y="52" width="38" height="38" rx="11" fill="#edf2f8"/>
+    <path d="M74 63V72C74 76 77 79 83 79C89 79 92 76 92 72V63" stroke="#0d1729" stroke-width="2.4" stroke-linecap="round"/>
+    <text x="117" y="77" fill="#edf2f8" font-size="19" font-weight="700" letter-spacing="2.8">USTC / CLK</text>
+    <path d="M291 60V82" stroke="#24344c"/>
+    <text x="309" y="76" fill="#a1b2c6" font-size="11" letter-spacing="2.1">COURSE ARCHIVE</text>
+
+    <text x="62" y="190" fill="#edf2f8" font-family="'Noto Serif SC', 'Source Han Serif SC', 'Songti SC', SimSun, serif" font-size="69" font-weight="700" letter-spacing="1">把知识连成线。</text>
+    <text x="67" y="236" fill="#a1b2c6" font-family="'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', sans-serif" font-size="18" letter-spacing="2">中国科学技术大学 · CLK 课程资源索引</text>
+    <text x="67" y="282" fill="#e0b77e" font-size="10" font-weight="600" letter-spacing="2.5">A PERSONAL ATLAS OF UNIVERSITY LEARNING</text>
+  </g>
+
+  <g>
+    <path d="M987 38V315M775 179H1202" stroke="#527691" stroke-opacity=".2" stroke-dasharray="3 7"/>
+    <circle cx="988" cy="179" r="120" stroke="#527691" stroke-opacity=".2" stroke-dasharray="2 8"/>
+    <circle cx="988" cy="179" r="82" stroke="#527691" stroke-opacity=".2"/>
+    <ellipse cx="988" cy="179" rx="194" ry="76" transform="rotate(-25 988 179)" stroke="url(#orbit)" stroke-width="1.5"/>
+    <ellipse cx="988" cy="179" rx="166" ry="69" transform="rotate(37 988 179)" stroke="#527691" stroke-opacity=".7"/>
+    <ellipse cx="988" cy="179" rx="63" ry="139" transform="rotate(24 988 179)" stroke="#527691" stroke-opacity=".5"/>
+    <path d="M816 218L917 106L1100 240L1133 116L988 179L816 218" stroke="#527691" stroke-opacity=".4"/>
+    <path d="M917 106L988 179L1100 240" stroke="#e0b77e" stroke-opacity=".6"/>
+
+    <circle cx="988" cy="179" r="39" fill="#102137" stroke="#527691" stroke-opacity=".45"/>
+    <circle cx="988" cy="179" r="31" stroke="#e0b77e" stroke-opacity=".45"/>
+    <path d="M968 168C975 166 982 167 988 171C994 167 1001 166 1008 168V191C1001 189 994 190 988 194C982 190 975 189 968 191V168Z" stroke="#edf2f8" stroke-width="1.6" stroke-linejoin="round"/>
+    <path d="M988 171V194M974 175C977 175 980 176 983 177M974 181C977 181 980 182 983 183M993 177C996 176 999 175 1002 175M993 183C996 182 999 181 1002 181" stroke="#edf2f8" stroke-opacity=".65" stroke-width="1.2" stroke-linecap="round"/>
+
+    <circle cx="816" cy="218" r="6" fill="#0d1729" stroke="#82b9da" stroke-width="2"/>
+    <circle cx="917" cy="106" r="5" fill="#e0b77e"/>
+    <circle cx="1100" cy="240" r="7" fill="#0d1729" stroke="#e0b77e" stroke-width="2"/>
+    <circle cx="1133" cy="116" r="5" fill="#82b9da"/>
+    <circle cx="1021" cy="46" r="3" fill="#e0b77e" opacity=".6"/>
+    <circle cx="794" cy="98" r="2" fill="#82b9da" opacity=".55"/>
+    <circle cx="876" cy="54" r="1.7" fill="#82b9da" opacity=".55"/>
+    <circle cx="1176" cy="102" r="2" fill="#82b9da" opacity=".55"/>
+    <circle cx="1220" cy="232" r="1.7" fill="#82b9da" opacity=".55"/>
+    <circle cx="815" cy="299" r="2" fill="#82b9da" opacity=".55"/>
+    <circle cx="1119" cy="312" r="1.8" fill="#82b9da" opacity=".55"/>
+    <circle cx="972" cy="40" r="1.5" fill="#82b9da" opacity=".55"/>
+    <circle cx="751" cy="217" r="1.6" fill="#82b9da" opacity=".55"/>
+    <g font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="9" letter-spacing="1.6" fill="#a1b2c6">
+      <text x="806" y="245">EXPLORE</text>
+      <text x="868" y="87">QUESTION</text>
+      <text x="1146" y="118">CONNECT</text>
+      <text x="1115" y="263">CREATE</text>
+    </g>
+  </g>
+
+  <path d="M64 326H1216" stroke="#24344c"/>
+  <g font-family="'Segoe UI', Inter, Arial, sans-serif">
+    <text x="65" y="370" fill="#edf2f8" font-size="11" font-weight="600" letter-spacing="2">NOTES</text>
+    <circle cx="143" cy="366" r="2" fill="#e0b77e"/>
+    <text x="165" y="370" fill="#edf2f8" font-size="11" font-weight="600" letter-spacing="2">PAST PAPERS</text>
+    <circle cx="298" cy="366" r="2" fill="#e0b77e"/>
+    <text x="320" y="370" fill="#edf2f8" font-size="11" font-weight="600" letter-spacing="2">CODE</text>
+    <text x="1215" y="370" text-anchor="end" fill="#a1b2c6" font-size="11" letter-spacing="2">COLLECTED WITH CURIOSITY / 2023–2026</text>
+  </g>
+</svg>
